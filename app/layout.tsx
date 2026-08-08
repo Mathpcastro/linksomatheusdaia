@@ -8,14 +8,14 @@ const mono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mono", displ
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://linksomatheusdaia.vercel.app"),
-  title: "Matheus Daia — Comunidades, SaaS e IA",
-  description: "Comunidades, SaaS e produtos práticos de IA criados por Matheus Daia.",
+  title: "@omatheusdaia - Links",
+  description: "Links oficiais de @omatheusdaia: conteúdo gratuito, comunidades, SaaS e produtos de IA.",
   openGraph: {
-    title: "Matheus Daia — Comunidades, SaaS e IA",
-    description: "Explore a comunidade e os produtos criados por Matheus Daia.",
+    title: "@omatheusdaia - Links",
+    description: "Links oficiais de @omatheusdaia: conteúdo gratuito, comunidades, SaaS e produtos de IA.",
     type: "website",
     locale: "pt_BR",
-    siteName: "OMATHEUSDAIA",
+    siteName: "@omatheusdaia - Links",
   },
   icons: { icon: "/icon.svg" },
 };
