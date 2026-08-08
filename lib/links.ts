@@ -6,6 +6,11 @@ export type LinkItem = {
 
 export const links: LinkItem[] = [
   {
+    name: "YouTube",
+    description: "Conteúdo gratuito sobre IA.",
+    href: "https://youtube.com/@omatheusdaia",
+  },
+  {
     name: "Criando Startup",
     description: "Comunidade para tirar ideias do papel.",
     href: "https://criandostartup.com",
