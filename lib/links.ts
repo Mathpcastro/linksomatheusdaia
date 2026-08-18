@@ -22,7 +22,12 @@ export const links: LinkItem[] = [
   },
   {
     name: "OSetup",
-    description: "Meu acervo de ferramentas e IA.",
+    description: "Meu acervo pessoal de plugins, MCPs e skills de IA.",
     href: "https://omatheusdaia.vercel.app",
+  },
+  {
+    name: "Contato para projetos personalizados",
+    description: "Fale comigo pelo WhatsApp.",
+    href: "https://wa.me/5541992636749",
   },
 ];
