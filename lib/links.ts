@@ -18,7 +18,7 @@ export const links: LinkItem[] = [
   {
     name: "Setup",
     description: "Plugins, MCPs e skills de IA em um só lugar.",
-    href: "https://omatheusdaia.vercel.app",
+    href: "https://setup.omatheusdaia.com.br/comece",
   },
   {
     name: "Contato para projetos personalizados",
