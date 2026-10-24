@@ -13,7 +13,7 @@ export const links: LinkItem[] = [
   {
     name: "Carrosséis que Vendem",
     description: "Transforme conteúdo em audiência e vendas.",
-    href: "https://carrosseisquevendem.com.br",
+    href: "https://carrosseisquevendem.com.br/app/",
   },
   {
     name: "Setup",
