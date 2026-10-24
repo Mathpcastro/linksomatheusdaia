@@ -6,9 +6,14 @@ export type LinkItem = {
 
 export const links: LinkItem[] = [
   {
-    name: "🔴 Live: vídeos com IA",
-    description: "15/10, 20h · Claude, Codex e motion",
+    name: "Lives - Encontro todas as quintas 20h",
+    description: "Acompanhe os encontros semanais ao vivo.",
     href: "/live-edicao-videos-com-ia",
+  },
+  {
+    name: "Comunidade @omatheusdaia",
+    description: "Participe dos grupos e acompanhe os avisos das lives.",
+    href: "https://chat.whatsapp.com/HCsipn0EqSJ84NmFPHXtSW",
   },
   {
     name: "Carrosséis que Vendem",
