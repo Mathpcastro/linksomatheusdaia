@@ -8,7 +8,7 @@ export const links: LinkItem[] = [
   {
     name: "Lives - Encontro todas as quintas 20h",
     description: "Acompanhe os encontros semanais ao vivo.",
-    href: "/live-edicao-videos-com-ia",
+    href: "https://chat.whatsapp.com/HCsipn0EqSJ84NmFPHXtSW",
   },
   {
     name: "Comunidade @omatheusdaia",
