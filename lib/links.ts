@@ -10,7 +10,7 @@ export const links: LinkItem[] = [
   {
     name: "Lives e Comunidade",
     description: "Encontros semanais, grupo e avisos das próximas lives.",
-    href: "https://chat.whatsapp.com/HCsipn0EqSJ84NmFPHXtSW",
+    href: "https://chat.whatsapp.com/Ias5qZF4WjA44yB8qYjxnH",
     logo: "comunidade",
     category: "COMUNIDADE",
   },
