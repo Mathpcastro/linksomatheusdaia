@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "sw
 const mono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mono", display: "swap" });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://linksomatheusdaia.vercel.app"),
+  metadataBase: new URL("https://omatheusdaia.com.br"),
   title: "@omatheusdaia - Links",
   description: "Links oficiais de @omatheusdaia: conteúdo gratuito, comunidades, SaaS e produtos de IA.",
   openGraph: {

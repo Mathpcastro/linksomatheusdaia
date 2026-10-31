@@ -2,37 +2,44 @@ export type LinkItem = {
   name: string;
   description: string;
   href: string;
+  logo: "comunidade" | "carrossell" | "setup" | "whatsapp" | "youtube";
+  category: string;
 };
 
 export const links: LinkItem[] = [
   {
-    name: "Lives - Encontro todas as quintas 20h",
-    description: "Acompanhe os encontros semanais ao vivo.",
+    name: "Lives e Comunidade",
+    description: "Encontros semanais, grupo e avisos das próximas lives.",
     href: "https://chat.whatsapp.com/HCsipn0EqSJ84NmFPHXtSW",
+    logo: "comunidade",
+    category: "COMUNIDADE",
   },
   {
-    name: "Comunidade @omatheusdaia",
-    description: "Participe dos grupos e acompanhe os avisos das lives.",
-    href: "https://chat.whatsapp.com/HCsipn0EqSJ84NmFPHXtSW",
-  },
-  {
-    name: "Carrosséis que Vendem",
+    name: "Carrossell - Sua primeira venda do seu SaaS",
     description: "Transforme conteúdo em audiência e vendas.",
     href: "https://carrosseisquevendem.com.br/app/",
+    logo: "carrossell",
+    category: "APP + MÉTODO",
   },
   {
-    name: "Setup",
+    name: "Setup - 1127 skills sem precisar instalar nenhuma",
     description: "Plugins, MCPs e skills de IA em um só lugar.",
     href: "https://setup.omatheusdaia.com.br/comece",
+    logo: "setup",
+    category: "FERRAMENTAS DE IA",
   },
   {
     name: "Contato para projetos personalizados",
     description: "Fale comigo pelo WhatsApp.",
     href: "https://wa.me/5541992636749",
+    logo: "whatsapp",
+    category: "CONTATO",
   },
   {
     name: "YouTube",
     description: "Conteúdo gratuito sobre IA.",
     href: "https://youtube.com/@omatheusdaia",
+    logo: "youtube",
+    category: "CONTEÚDO",
   },
 ];
