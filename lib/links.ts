@@ -2,7 +2,7 @@ export type LinkItem = {
   name: string;
   description: string;
   href: string;
-  logo: "comunidade" | "carrossell" | "setup" | "whatsapp" | "youtube";
+  logo: "comunidade" | "carrossell" | "videosell" | "whatsapp" | "youtube";
   category: string;
 };
 
@@ -22,11 +22,11 @@ export const links: LinkItem[] = [
     category: "APP + MÉTODO",
   },
   {
-    name: "Setup - 1127 skills sem precisar instalar nenhuma",
-    description: "Plugins, MCPs e skills de IA em um só lugar.",
-    href: "https://setup.omatheusdaia.com.br/comece",
-    logo: "setup",
-    category: "FERRAMENTAS DE IA",
+    name: "Videosell - Reels que vendem seu SaaS",
+    description: "Avatares de IA para apresentar e vender seu produto.",
+    href: "https://carrosseisquevendem.com.br/videosell",
+    logo: "videosell",
+    category: "VÍDEOS COM IA",
   },
   {
     name: "Contato para projetos personalizados",
