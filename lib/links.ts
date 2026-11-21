@@ -8,8 +8,8 @@ export type LinkItem = {
 
 export const links: LinkItem[] = [
   {
-    name: "Lives e Comunidade",
-    description: "Encontros semanais, grupo e avisos das próximas lives.",
+    name: "Grupo gratuito de networking",
+    description: "Entre no grupo gratuito para trocar ideias e conhecer outras pessoas da área.",
     href: "https://chat.whatsapp.com/Ias5qZF4WjA44yB8qYjxnH",
     logo: "comunidade",
     category: "COMUNIDADE",
